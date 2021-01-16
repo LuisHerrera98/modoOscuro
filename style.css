@@ -3,7 +3,9 @@ body{
     padding: 0;
     background-color: rgb(220, 235, 220);
 }
-
+img{
+    width: 80%;
+}
 div{
     margin: 0;
     width: 100%;
